@@ -1,1 +1,1 @@
-[cathi.gif] this is my profile
+[](cathi.gif) this is my profile
